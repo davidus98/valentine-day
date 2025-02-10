@@ -1,2 +1,0 @@
-# valentine-day
-Fun project
